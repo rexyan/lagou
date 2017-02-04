@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89cb85f7-61bd-413c-b21e-d92fc6fe1aaf" name="Default" comment="" />
+    <ignored path="pachong.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pachong$Client.coverage" NAME="Client Coverage Results" MODIFIED="1485263443890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$Server.coverage" NAME="Server Coverage Results" MODIFIED="1485263751574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$Email.coverage" NAME="Email Coverage Results" MODIFIED="1485262944854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Template" />
+    <SUITE FILE_PATH="coverage/pachong$main.coverage" NAME="main Coverage Results" MODIFIED="1485263758280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$job.coverage" NAME="job Coverage Results" MODIFIED="1484479986157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/web_spider_lagou-master/web_spider_lagou-master" />
+    <SUITE FILE_PATH="coverage/pachong$taskmanager.coverage" NAME="taskmanager Coverage Results" MODIFIED="1482763668930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$taskworker.coverage" NAME="taskworker Coverage Results" MODIFIED="1482818544008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$GetJobName.coverage" NAME="GetJobName Coverage Results" MODIFIED="1484906693260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Template" />
+    <SUITE FILE_PATH="coverage/pachong$GetListData.coverage" NAME="GetListData Coverage Results" MODIFIED="1484720232656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Template" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pachong" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="156" column="88" selection-start-line="156" selection-start-column="88" selection-end-line="156" selection-end-column="88" />
+              <folding>
+                <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+                <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+                <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+                <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+                <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+                <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+                <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+                <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+                <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+                <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+                <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+                <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-475">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+                <marker date="1485266329590" expanded="true" signature="741:788" placeholder="select DISTI... home_jobtype" />
+                <marker date="1485266329590" expanded="true" signature="1279:1330" placeholder="select count... home_position" />
+                <marker date="1485266329590" expanded="true" signature="1433:1467" placeholder="select count... home_position" />
+                <marker date="1485266329590" expanded="true" signature="1550:1603" placeholder="select count... home_company" />
+                <marker date="1485266329590" expanded="true" signature="1706:1739" placeholder="select count... home_company" />
+                <marker date="1485266329590" expanded="true" signature="1820:1853" placeholder="select count... home_welfare" />
+                <marker date="1485266329590" expanded="true" signature="1934:1963" placeholder="select count... home_tag" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2561">
+              <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
+              <folding>
+                <element signature="e#25#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQL_Helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config/SQL_Helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetListData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="188" column="8" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="8" />
+              <folding>
+                <element signature="e#135#169#0" expanded="true" />
+                <element signature="e#404#519#0" expanded="false" />
+                <element signature="e#3680#6168#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetJobName.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/GetJobName.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="42" column="125" selection-start-line="42" selection-start-column="110" selection-end-line="42" selection-end-column="125" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+                <marker date="1484915464136" expanded="true" signature="1775:1858" placeholder="select First... home_jobtype" />
+                <marker date="1484915464136" expanded="true" signature="1775:1860" placeholder="select First... home_jobtype" />
+                <marker date="1484915464136" expanded="true" signature="2090:2196" placeholder="insert INTO home_jobtype... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/taskworker.py" />
+        <option value="$PROJECT_DIR$/taskmanager.py" />
+        <option value="$PROJECT_DIR$/Config/DB.py" />
+        <option value="$USER_HOME$/Desktop/web_spider_lagou-master/web_spider_lagou-master/job.py" />
+        <option value="$PROJECT_DIR$/Template/MultiThread.py" />
+        <option value="$PROJECT_DIR$/Config/SQL_Helper.py" />
+        <option value="$PROJECT_DIR$/Template/GetListData.py" />
+        <option value="$PROJECT_DIR$/Template/GetJobName.py" />
+        <option value="$PROJECT_DIR$/log/server.log" />
+        <option value="$PROJECT_DIR$/log/client.log" />
+        <option value="$PROJECT_DIR$/Template/Email.py" />
+        <option value="$PROJECT_DIR$/Client.py" />
+        <option value="$PROJECT_DIR$/Runlog.txt" />
+        <option value="$PROJECT_DIR$/Server.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\py\pachong" />
+      <recent name="C:\py\pachong\Template" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetJobName" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Template" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Template/GetJobName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Template" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Template/Email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="pachong" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Client" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GetJobName" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Email" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Server" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Client" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Email" />
+        <item index="4" class="java.lang.String" itemvalue="Python.GetJobName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89cb85f7-61bd-413c-b21e-d92fc6fe1aaf" name="Default" comment="" />
+      <created>1482762606026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482762606026</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1634367" sideWeight="0.49333334" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8188105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66390043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14857881" sideWeight="0.50666666" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/SQL_Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="196" column="26" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="26" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetJobName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="47" column="72" selection-start-line="45" selection-start-column="40" selection-end-line="47" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+            <marker date="1484915464136" expanded="true" signature="1775:1858" placeholder="select First... home_jobtype" />
+            <marker date="1484915464136" expanded="true" signature="1775:1860" placeholder="select First... home_jobtype" />
+            <marker date="1484915464136" expanded="true" signature="2090:2196" placeholder="insert INTO home_jobtype... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="91" column="47" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="47" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4070">
+          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="114" column="49" selection-start-line="114" selection-start-column="45" selection-end-line="114" selection-end-column="49" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/SQL_Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/web_spider_lagou-master/web_spider_lagou-master/job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/SQL_Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/DB.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1174382173/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="852" column="6" selection-start-line="852" selection-start-column="6" selection-end-line="852" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/web_spider_lagou-master/web_spider_lagou-master/job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11649">
+          <caret line="754" column="8" selection-start-line="754" selection-start-column="8" selection-end-line="754" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PyMySQL-0.7.9-py3.5.egg/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="807" column="8" selection-start-line="807" selection-start-column="8" selection-end-line="807" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PyMySQL-0.7.9-py3.5.egg/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PyMySQL-0.7.4-py3.5.egg/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="328" column="13" selection-start-line="328" selection-start-column="13" selection-end-line="328" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1174382173/gc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/multiprocessing/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="458" column="8" selection-start-line="458" selection-start-column="8" selection-end-line="458" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetJobName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="42" column="125" selection-start-line="42" selection-start-column="110" selection-end-line="42" selection-end-column="125" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+            <marker date="1484915464136" expanded="true" signature="1775:1858" placeholder="select First... home_jobtype" />
+            <marker date="1484915464136" expanded="true" signature="1775:1860" placeholder="select First... home_jobtype" />
+            <marker date="1484915464136" expanded="true" signature="2090:2196" placeholder="insert INTO home_jobtype... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/SQL_Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/log/client.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/GetListData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="188" column="8" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="8" />
+          <folding>
+            <element signature="e#135#169#0" expanded="true" />
+            <element signature="e#404#519#0" expanded="false" />
+            <element signature="e#3680#6168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/Email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#43#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2561">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runlog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="156" column="88" selection-start-line="156" selection-start-column="88" selection-end-line="156" selection-end-column="88" />
+          <folding>
+            <marker date="1485266298632" expanded="true" signature="1203:1230" placeholder="select Searc... Position" />
+            <marker date="1485266298632" expanded="true" signature="1203:1242" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1264" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="1203:1268" placeholder="select TypeS... home_jobtype" />
+            <marker date="1485266298632" expanded="true" signature="2521:2623" placeholder="insert into home_position... " />
+            <marker date="1485266298632" expanded="true" signature="3067:3153" placeholder="insert into home_jobbaserequirement... " />
+            <marker date="1485266298632" expanded="true" signature="3507:3561" placeholder="insert into home_tag... " />
+            <marker date="1485266298632" expanded="true" signature="3768:3830" placeholder="insert into home_welfare... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4174" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="4049:4187" placeholder="insert into home_detailsrecruitment... " />
+            <marker date="1485266298632" expanded="true" signature="5500:5719" placeholder="insert into home_company... " />
+            <marker date="1485266298632" expanded="true" signature="6591:6683" placeholder="insert into home_city... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+            <marker date="1485266329590" expanded="true" signature="741:788" placeholder="select DISTI... home_jobtype" />
+            <marker date="1485266329590" expanded="true" signature="1279:1330" placeholder="select count... home_position" />
+            <marker date="1485266329590" expanded="true" signature="1433:1467" placeholder="select count... home_position" />
+            <marker date="1485266329590" expanded="true" signature="1550:1603" placeholder="select count... home_company" />
+            <marker date="1485266329590" expanded="true" signature="1706:1739" placeholder="select count... home_company" />
+            <marker date="1485266329590" expanded="true" signature="1820:1853" placeholder="select count... home_welfare" />
+            <marker date="1485266329590" expanded="true" signature="1934:1963" placeholder="select count... home_tag" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
