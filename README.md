@@ -1,4 +1,4 @@
-# lagou每日数据抓取，网站:https://www.lagou.com/
+# lagou每日数据抓取
 1, 功能:
  - 每日自动定时抓取当日招聘信息
  - 采用异步多线程的方式（分为Server端，和Client端）
@@ -31,5 +31,3 @@
  ![](http://i1.piimg.com/567571/48ffcee445f09368.png)
  ![](http://i1.piimg.com/567571/dd38339e88472057.png)
  ![](http://p1.bpimg.com/567571/18cb7810c8c21342.png)
-
-# 其他说明:本项目结合了Django，为本人毕设的一部分。此部分为爬虫部分
